@@ -1,11 +1,19 @@
-# PCG
-Python Coding Group
+# testingws
+This is resporitory for learning aabout GitHUb in a workshop.
 
-# From
+# Created
 Penang Science Cluster
 
-# Head 1
-## Head 2
+# Introduction
+
+This is to be used to learn Git-based development.
+
+## What you need
+
+· A Laptop
+· An Internet
+· Power
+
 ### Head 3
-#### Head 4
-##### Head 5
+
+### Head 4
