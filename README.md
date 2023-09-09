@@ -14,6 +14,5 @@ This is to be used to learn Git-based development.
 · An Internet
 · Power
 
-### Head 3
+###### Heading No. 6
 
-#### Head 4
